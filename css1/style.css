@@ -1,0 +1,295 @@
+html {
+	background-color: black;
+	color: white;
+}
+
+body {
+	font-family: "Montserrat", sans-serif !important; 
+}
+
+.bg-grey {
+	font-size: 3em;
+	text-align: center;
+	background: black;
+	color: white;
+	padding-top: 0.5em;
+}
+header div nav {
+	border-top: solid 1px white;
+	border-bottom: solid 1px white;
+}
+.testo {
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding-top: 5%;
+
+}
+
+.homephoto {
+	width: 30%;
+	webkit-transform: rotate(270deg);
+    moz-transform: rotate(270deg);
+    o-transform: rotate(270deg);
+    ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.container h1 {
+	font-size: 110px;
+}
+h1 {
+	position: absolute;
+	top: 5%;
+	left: 29%;
+
+}
+h2 {
+	font-size: 250px;
+}
+nav {
+	position: absolute;
+	font-size: 40px;
+	top:0%;
+	left:29%;
+}
+a:link {color:white
+}
+
+.icon-bar {
+  width: 100%;
+  background-color: #555;
+  overflow: hidden;
+  background-color: #333
+  position: fixed; 
+  top: 0; 
+  width: 100%;
+}
+
+.icon-bar a {
+  float: left; 
+  text-align: center; 
+  width: 33.33%; 
+  padding: 12px 0; 
+  transition: all 0.3s ease; 
+  color: white; 
+  font-size: 20px;
+  display: block;
+  text-decoration: none;
+}
+
+.icon-bar a:hover {
+  background: #ddd;
+  color: white;
+}
+
+.active {
+  background-color: black;
+}
+.about {
+ background-color: black;
+}
+.document {
+ background-color: black;
+}
+.photo1 {
+	padding-left: 5px;
+	width: 500px;
+}
+.photo3 {
+	padding-left: 5px;
+	width: 490px;
+
+}
+.main-section {
+	position: absolute;
+	top: 67%;
+	left: 18%;
+}
+.main-section h2 {
+	font-size: 60px;
+}
+.main-section p{
+	font-size: 20px;
+}
+.second {
+	border-bottom: solid 1px white;
+
+	
+}
+.third {
+	border-bottom: solid 1px white;
+	font-size: 33px;
+
+}
+.second section {
+	font-size: 40px;
+	font: bold;
+}
+.photo5 {
+	padding-left: 5px;
+	width: 500px;
+}
+.photo6 {
+	padding-left: 5px;
+	width: 500px;
+}
+.fourth {
+	font-size: 33px;
+	border-bottom: solid 1px white;
+}
+.container p {
+	position: absolute;
+	top:65%;
+	left: 45%;
+}
+.photo7 {
+	padding-left: 5px;
+	width: 500px;
+}
+
+.photo8 {
+	padding-left: 5px;
+	width: 490px;
+}
+
+.fifth {
+	font-size: 33px;
+	border-bottom: solid 1px white;
+}
+
+footer {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 2em;
+}
+.whysection {
+	display: inline-block;
+	font-size: 20px;
+	border-bottom: solid 1px white;
+
+}
+.sixth {
+	font-size: 22px;
+	padding-top: 0;
+	position: absolute;
+	top: 67%;
+	left: 18%;
+
+}
+.bg {
+	background-color: black;
+	font-size: 3em;
+	text-align: center;
+}
+.aboutsection {
+	font-size: 30px;
+}
+.bggrey{
+	background-color: black;
+	font-size: 3em;
+	text-align: center;
+}
+.contactssection {
+	display: inline-block;
+	font-size: 40px;
+	padding-top: 0;
+	border-bottom: solid 1px white;
+}
+.bggrey .container p {
+	position: absolute;
+	top:70%;
+	left: 44%;
+}
+.seventh {
+	font-size: 40px;
+}
+body .bg .container h1 {
+	position: absolute;
+	top: 5%;
+	left: 38%;
+}
+body .bggrey .container h1 {
+	position: absolute;
+	top: 5%;
+	left: 28.5%;
+
+}
+body section .one .two {
+	position: relative;
+	color: white;
+}
+.one h1 {
+	position: absolute;
+	top: 65%;
+	left: 9%;
+	font-size: 50px;
+}
+.two {
+	padding-left: 7em;
+}
+.two h2 {
+	font-size: 50px;
+}
+.three {
+	padding-left: 7em;
+}
+.four {
+	padding-left: 7em;
+}
+.five {
+	padding-left: 7em;
+}
+.six h3 {
+	font-size: 50px;
+	padding-left: 2.1em;
+}
+.seven {
+	padding-left:7em;
+}
+.wireframe {
+	width: 350px;
+}
+.eight {
+	padding-left: 7em;
+}
+.nine {
+	padding-left: 7em;
+}
+.ten h4 {
+	font-size: 50px;
+	padding-left: 2.1em;
+}
+.eleven {
+	padding-left: 7em;
+}
+.twelve {
+	padding-left: 7em;
+}
+.thirteen h5 {
+	font-size: 50px;
+	padding-left: 2.1em;
+}
+.fourteen {
+	padding-left: 7em;
+}
+.fifteen {
+	padding-left: 7em;
+}
+.sixteen {
+	padding-left: 7em;
+}
+.seventeen {
+	padding-left: 7em;
+}
+.eighteen {
+	padding-left: 7em;
+}
+
+
+
